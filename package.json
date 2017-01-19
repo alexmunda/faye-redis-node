@@ -1,6 +1,6 @@
 {
-   "name":"faye-redis",
-   "description":"Redis backend engine for Faye",
+   "name":"faye-redis-emit",
+   "description":"Redis backend engine for Faye, with the ability to listen for redis events",
    "homepage":"http://github.com/faye/faye-redis-node",
    "author":"James Coglan <jcoglan@gmail.com> (http://jcoglan.com/)",
    "keywords":[
